@@ -45,9 +45,3 @@ AI-DDI-Prediction/
 ## Output
 ![Output](Screenshot (23).png)
 
-## ⚙️ Installation
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/AI-DDI-Prediction.git
-cd AI-DDI-Prediction
