@@ -1,0 +1,9 @@
+Drug_A,Drug_B,Interaction
+Aspirin,Warfarin,1
+Metformin,Insulin,1
+Paracetamol,Ibuprofen,0
+Amoxicillin,Paracetamol,0
+Atorvastatin,Clarithromycin,1
+Ibuprofen,Prednisone,1
+Metformin,Paracetamol,0
+Warfarin,Vitamin K,1
