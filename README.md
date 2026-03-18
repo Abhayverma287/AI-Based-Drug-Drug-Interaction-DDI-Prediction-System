@@ -42,6 +42,8 @@ AI-DDI-Prediction/
 │     └── output.png
 
 ---
+## Output
+![Output](Screenshot (23).png)
 
 ## ⚙️ Installation
 
